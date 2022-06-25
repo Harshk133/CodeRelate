@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+.Name{
+    color: white;
+    text-shadow: black 4px 4px 2px;
+    font-family: 'Fascinate', cursive;
+}
+.video_list{
+    width: 100%;
+    margin: 0 auto;
+}
